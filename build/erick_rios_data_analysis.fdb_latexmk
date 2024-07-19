@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1721360052 "/home/erick/Desktop/ERICK_RIOS_cv/erick_rios_data_analysis.tex" "build/erick_rios_data_analysis.pdf" "erick_rios_data_analysis" 1721360055
+["pdflatex"] 1721405486 "/home/erick/Desktop/ERICK_RIOS_cv/erick_rios_data_analysis.tex" "build/erick_rios_data_analysis.pdf" "erick_rios_data_analysis" 1721405488
   "/etc/texmf/web2c/texmf.cnf" 1720907654 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/erick/.texlive2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1712258790 1405759 bf1e24aa8b5700c287c2873f17d2b427 ""
-  "/home/erick/Desktop/ERICK_RIOS_cv/erick_rios_data_analysis.tex" 1721360050 4621 6c1153e8852d6f5ae37b5f0c97fb704e ""
+  "/home/erick/Desktop/ERICK_RIOS_cv/erick_rios_data_analysis.tex" 1721405484 4599 85826b4318445380c17c819ce6fbf301 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1136768653 3584 2d666ecf6d466d8b007246bc2f94d9da ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
@@ -71,9 +71,9 @@
   "/usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb" 1636152094 169201 9ebf99020dde51a5086e186761a34e8f ""
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1720907663 4379155 98693266ff65f58d9f98aff394de12d2 ""
-  "build/erick_rios_data_analysis.aux" 1721360055 785 2466683d749b6ff01f37c4cd99365495 "pdflatex"
-  "build/erick_rios_data_analysis.out" 1721360055 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "erick_rios_data_analysis.tex" 1721360050 4621 6c1153e8852d6f5ae37b5f0c97fb704e ""
+  "build/erick_rios_data_analysis.aux" 1721405487 785 2466683d749b6ff01f37c4cd99365495 "pdflatex"
+  "build/erick_rios_data_analysis.out" 1721405487 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "erick_rios_data_analysis.tex" 1721405484 4599 85826b4318445380c17c819ce6fbf301 ""
   (generated)
   "build/erick_rios_data_analysis.aux"
   "build/erick_rios_data_analysis.log"
