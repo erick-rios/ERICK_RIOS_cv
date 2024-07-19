@@ -1,9 +1,9 @@
-PWD /home/erick/Documents/ERICK_RIOS_cv
+PWD /home/erick/Desktop/ERICK_RIOS_cv
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /home/erick/.texlive2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /home/erick/Documents/ERICK_RIOS_cv/erick_rios_data_analysis.tex
+INPUT /home/erick/Desktop/ERICK_RIOS_cv/erick_rios_data_analysis.tex
 OUTPUT build/erick_rios_data_analysis.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
