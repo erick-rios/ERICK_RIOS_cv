@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.9.1)  12 SEP 2024 22:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.9.1)  12 SEP 2024 22:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -266,14 +266,14 @@ Package hyperref Info: Link coloring OFF on input line 12.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(30.15985pt, 553.9753pt, 30.15985pt)
-* v-part:(T,H,B)=(48.36958pt, 732.6584pt, 13.942pt)
+* v-part:(T,H,B)=(27.88358pt, 753.14441pt, 13.942pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=553.9753pt
-* \textheight=732.6584pt
+* \textheight=753.14441pt
 * \oddsidemargin=-42.11014pt
 * \evensidemargin=-42.11014pt
-* \topmargin=-60.9004pt
+* \topmargin=-81.38641pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -313,7 +313,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  79i,5n,93p,358b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on build/erick_rios_data_analysis.pdf (1 page, 74243 bytes).
+Output written on build/erick_rios_data_analysis.pdf (1 page, 74237 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
